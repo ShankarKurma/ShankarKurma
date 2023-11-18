@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me: New to Github
 - 👋 Hi, I’m @ShankarKurma<br>- 👀 I’m interested in project ...<br>- 🌱 I’m currently learning Python, machine learning, Artificial Intelligence<br>- 💞️ I’m looking to collaborate on ...<br>- 📫 reach me, shankarkurma06@gmail.com<br>Fun Fact - 
 
 
